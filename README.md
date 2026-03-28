@@ -1,4 +1,4 @@
-# Modern Full-Stack Developer Portfolio
+# Modern Full-Stack Developer Portfolio 
 
 A sleek, dark-themed responsive portfolio website designed for Full-Stack Engineers. This project features a modern "Syne" and "Space Mono" typography pairing, a custom pixel-art aesthetic, and a fully responsive grid layout.
 
