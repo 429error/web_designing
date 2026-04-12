@@ -4,7 +4,7 @@ A sleek, dark-themed responsive portfolio website designed for Full-Stack Engine
 
 ![Portfolio Preview]
 
-## The Stack
+## The Stack used
 
 This is a lightweight, high-performance frontend implementation using:
 
